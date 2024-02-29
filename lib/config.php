@@ -11,4 +11,3 @@ define('DB_PASSWORD', '');
 
 // Variables des chemins relatif
 define('CSS_PATH', 'assets\css\styles.css');
-
